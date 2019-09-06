@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLCipherMigrationSample</string>
+    <string name="plus">+</string>
+    <string name="titleHint">タイトルを入力してください</string>
+    <string name="titleLabel">タイトル：</string>
+    <string name="contentLabel">内容</string>
+    <string name="contentHint">内容を入力・・・</string>
+    <string name="registerButtonText">登録</string>
+    <string name="db_pass">123456789</string>
+</resources>
